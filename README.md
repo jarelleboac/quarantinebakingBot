@@ -3,8 +3,7 @@ no more banana bread! a bot which sends you a new recipe for your quarantine bak
 
 
 ![Image of Cover]
-(https://github.com/jarelleboac/quarantinebakingBot/blob/main/Screen%20Shot%202021-02-28%20at%2012.43.45%20PM.png)
-
+(Screen Shot 2021-02-28 at 12.43.45 PM.png)
 
 
 Server backend: Flask
