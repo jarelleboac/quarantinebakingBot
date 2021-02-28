@@ -8,7 +8,7 @@ import requests
 
 
 app = Flask(__name__)
-ACCESS_TOKEN = 'EAANI58zW530BAEYCSGnpnonPV4ne80pbXl6JfYofrbz976puZBoSSKirGHvrIakhfh2lswZBvfxi5mPW9A4yfxHKJa3hACHADuvdUr9hOvzWy9CDIlILAGTq6shNSI9JVWZA0aDj25A1mKzjWPRF3foQxoht3RSmCi02ZAA14zvctzzwPJ8ZA'
+ACCESS_TOKEN = ''
 VERIFY_TOKEN = 'yikes'
 bot = Bot(ACCESS_TOKEN)
 
